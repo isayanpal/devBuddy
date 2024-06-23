@@ -19,6 +19,7 @@ Dev Buddy is a web application that allows users to search for GitHub profiles b
 - Environment Management: dotenv
 
 ## Screenshots
+![image](https://github.com/isayanpal/devBuddy/assets/102523492/e96e090e-2df3-4766-8a41-01c80860c042)
 
 ## Installation
 
