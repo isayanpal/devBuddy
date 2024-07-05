@@ -8,7 +8,7 @@ const PORT = process.env.PORT || 5000;
 
 app.use(
   cors({
-    origin: "http://localhost:5173",
+    origin: ["http://localhost:5173", "https://dev-buddy-v1.vercel.app"],
     credentials: true,
   })
 );
