@@ -9,7 +9,7 @@ function SearchUser() {
   const searchUsers = async () => {
     try {
       const res = await axios.get(
-        `http://localhost:5000/search?location=${location}`
+        `https://devbuddy.onrender.com/search?location=${location}`
       );
       setUsers(res.data);
       console.log(res.data);
